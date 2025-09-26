@@ -7,12 +7,12 @@ export default function Policy() {
     <div className='max-w-6xl mx-auto p-6'>
       <header className='flex justify-between items-center mb-6'>
         <div className='flex items-center gap-3'>
-          <div className='w-14 h-14 rounded-xl bg-gradient-to-br from-purple-600 to-cyan-400 flex items-center justify-center shadow-lg'>
+          {/* <div className='w-14 h-14 rounded-xl bg-gradient-to-br from-purple-600 to-cyan-400 flex items-center justify-center shadow-lg'>
             <svg width='28' height='28' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'>
               <path d='M12 2L19 8.5V15.5L12 22L5 15.5V8.5L12 2Z' fill='white' opacity='0.98'/>
               <path d='M12 6V18' stroke='rgba(255,255,255,0.2)' strokeWidth='1' strokeLinecap='round'/>
             </svg>
-          </div>
+          </div> */}
           <div>
             <h1 className='text-lg font-bold'>Jupiter Wallet — Privacy Policy</h1>
             <p className='text-gray-400 text-sm'>This policy explains how Jupiter Wallet collects, stores and protects data related to the cryptocurrency wallet service.</p>
@@ -26,7 +26,7 @@ export default function Policy() {
       <div className='bg-[#0b1220] p-6 rounded-2xl shadow-xl mb-6'>
         <div className='flex justify-between items-center mb-4'>
           <div>
-            <span className='inline-flex px-3 py-1 rounded-full bg-white/5 text-cyan-400 text-xs font-semibold'>Technology: Public Blockchain</span>
+            {/* <span className='inline-flex px-3 py-1 rounded-full bg-white/5 text-cyan-400 text-xs font-semibold'>Technology: Public Blockchain</span> */}
             <div className='text-gray-400 text-xs mt-2'>Last updated: <strong>26/09/2025</strong></div>
           </div>
           <div className='text-right text-gray-400 text-xs'>
